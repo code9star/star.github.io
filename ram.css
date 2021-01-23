@@ -1,0 +1,117 @@
+.container{
+    max-width: 960px;
+    margin: 0 auto;
+    background-color: #eba08e;
+    font-size: 24px;
+    padding: 25px;
+     border-radius: 11px;
+}
+.parallax{
+ background: url('https://i1.wp.com/saisarathi.com/wp-content/uploads/2015/01/swami-sai-ram-lotus-feet.jpg?fit=300%2C225&ssl=1') no-repeat center;
+background-size: cover;
+background-attachment: fixed;
+height: 500px;
+}
+
+.logo{
+    max-width: 960px;
+    margin: 0 auto;
+    background-color: #fffefe;
+    font-size: 24px;
+    margin-left: 100px;
+}
+
+.img{
+    width: 250px;
+    display: flex;
+    justify-content: left;
+}
+.paralax1{
+    background: url('https://sites.google.com/site/thediaryofkarma/_/rsrc/1472872579614/dasaratha-s-diary/Dasaratha%27s%20death%21-%20Ramayanam%21.jpg?height=308&width=400') no-repeat center;
+background-size: cover;
+background-attachment: fixed;
+height: 500px;
+text-align:center;
+display: flex;
+justify-content: center;
+align-items: center;
+color: black;
+}
+.paralax2{
+    background: url('https://image.slidesharecdn.com/theramayana-140131034813-phpapp01/95/the-ramayana-4-638.jpg?cb=1391140721') no-repeat center;
+background-size: cover;
+background-attachment: fixed;
+height: 500px;
+text-align:center;
+display: flex;
+justify-content: center;
+align-items: center;
+color: black;
+}
+.paralax3{
+    background: url('https://akm-img-a-in.tosshub.com/sites/dailyo/fb_feed_images/story_image/201804/lord-ram-380_0402150_041818011307.jpg') no-repeat center;
+background-size: cover;
+background-attachment: fixed;
+height: 500px;
+text-align:center;
+display: flex;
+justify-content: center;
+align-items: center;
+color: black;
+}
+.paralax4{
+    background: url('https://i.pinimg.com/originals/43/ea/ff/43eaffebada929acf1defbcfd4f146cd.jpg') no-repeat center;
+background-size: cover;
+background-attachment: fixed;
+height: 500px;
+text-align:center;
+display: flex;
+justify-content: center;
+align-items: center;
+color: rgb(0, 0, 0);
+}
+.paralax5{
+    background: url('https://images.assettype.com/swarajya%2F2019-07%2F6766acc4-c32d-488b-9dc7-001d99be7f27%2Frama.gif?w=640&q=75&auto=format%2Ccompress') no-repeat center;
+background-size: cover;
+background-attachment: fixed;
+height: 500px;
+text-align:center;
+display: flex;
+justify-content: center;
+align-items: center;
+color: rgb(10, 10, 10);
+}
+.paralax6{
+    background: url('https://mallstuffs.com/Blogs/BlogImages/WhylordRamaiscalledMaryada-Epitomeoftruthanddiscipline7.png') no-repeat center;
+background-size: cover;
+background-attachment: fixed;
+height: 500px;
+text-align:center;
+display: flex;
+justify-content: center;
+align-items: center;
+color: rgb(5, 5, 5);
+}
+.paralax7{
+    background: url('https://www.nowayodhya.com/wp-content/uploads/2019/08/117182818_633692453938969_3138098214471870677_o.jpg') no-repeat center;
+background-size: cover;
+background-attachment: fixed;
+height: 500px;
+text-align:center;
+display: flex;
+justify-content: center;
+align-items: center;
+color: rgb(17, 16, 16);
+}
+
+.paralax8{
+    background: url('https://i.pinimg.com/originals/0f/df/61/0fdf6173d173f3a1f9f6a80713b22818.jpg') no-repeat center;
+background-size: cover;
+background-attachment: fixed;
+height: 500px;
+text-align:center;
+display: flex;
+justify-content: center;
+align-items: center;
+color: rgb(0, 0, 0);
+}
