@@ -1,1 +1,1 @@
-# star.github.io
+# s.github.io
